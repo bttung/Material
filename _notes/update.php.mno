@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsMaterialUpdate" value="name:id;datatype:int,name:materialName;datatype:blob,name:productName;datatype:blob,name:producerName;datatype:blob,name:contact;datatype:blob,name:telephone;datatype:blob,name:fax;datatype:blob,name:adress;datatype:blob,name:productPrice;datatype:blob,name:materialLoss;datatype:blob,name:madeIn;datatype:blob,name:notes;datatype:blob,name:other;datatype:blob" />
+</info>

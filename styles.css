@@ -1,0 +1,90 @@
+table.sample{
+	border-top:1px solid #663300;
+	border-left:1px solid #663300;
+	border-right:1px solid #663300;
+	border-bottom:1px solid #663300;
+	border-collapse:collapse;
+	border-spacing:0;
+	background-color:#ffffff;
+	empty-cells:show;
+	padding: 2px;
+	margin-top: 5px;
+	margin-right: 2px;
+	margin-bottom: 10px;
+	margin-left: 1px;
+}
+.sample th{
+	border-right:1px solid #663300;
+	border-bottom:1px solid #663300;
+	background-color:#F90;
+	background-position:left top;
+	padding:0.3em 1em;
+	text-align:center;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: capitalize;
+	color: #FFF;
+		
+}
+body {
+	background-attachment: scroll;
+	background-image: url(images/Header.jpg);
+	background-repeat: no-repeat;
+}
+
+.sample td{
+    border-right:1px solid #663300;
+    border-bottom:1px solid #663300;
+    padding:0.3em 1em;
+}
+#apDiv1 {
+	position:absolute;
+	left:556px;
+	top:1053px;
+	width:387px;
+	height:176px;
+	z-index:1;
+}
+#apDiv2 {
+	position:absolute;
+	left:18px;
+	top:1050px;
+	width:411px;
+	height:176px;
+	z-index:2;
+}
+#listProducer {
+	width: 200px;
+	overflow: scroll;
+}
+#listMaterial {
+	width: 200px;
+}
+.revisedLink {
+	text-decoration: none;
+}
+.pagingLink {
+	color: #03C;
+	background-color: #FFF;
+	text-decoration: none;
+}
+#apDiv3 {
+	position:absolute;
+	left:286px;
+	top:63px;
+	width:331px;
+	height:22px;
+	z-index:1;
+}
+#apDiv4 {
+	position:absolute;
+	left:286px;
+	top:52px;
+	width:833px;
+	height:28px;
+	z-index:1;
+}
+.SearchForm {
+    position:absolute;
+	left: 85px;
+}
